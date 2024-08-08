@@ -1,3 +1,4 @@
 # Semantic RAG
 
-![Screenshot_2024-08-08_at_4 19 54_PM-removebg-preview](https://github.com/user-attachments/assets/a7d41609-e610-4c12-a13d-4c6c97704a8b)
+<img width="619" alt="Screenshot 2024-08-08 at 4 19 54 PM" src="https://github.com/user-attachments/assets/335f10cc-b2f7-4a8c-8333-558db777a4b9">
+
