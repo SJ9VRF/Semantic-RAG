@@ -1,4 +1,5 @@
 # Semantic RAG
 
-<img width="619" alt="Screenshot 2024-08-08 at 4 19 54 PM" src="https://github.com/user-attachments/assets/335f10cc-b2f7-4a8c-8333-558db777a4b9">
+![Screenshot_2024-08-08_at_8 16 31_PM-removebg-preview](https://github.com/user-attachments/assets/b47eacbf-a99d-410e-9d9a-2950f3f9fab9)
+
 
