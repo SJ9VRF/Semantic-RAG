@@ -41,3 +41,15 @@ These instructions will get you a copy of the project up and running on your loc
 ### Usage
    ```bash
    python src/main.py
+
+### Documentation
+For a detailed guide on how to use this system and further documentation on the architecture and functionalities, please refer to the docs/ directory located within this project.
+
+### Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
