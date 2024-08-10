@@ -50,7 +50,16 @@ For a detailed guide on how to use this system and further documentation on the 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
-2. Create your Feature Branch ```bash git checkout -b feature/AmazingFeature ```
-3. Commit your Changes ```bash git commit -m 'Add some AmazingFeature ```
-4. Push to the Branch  ```bash git push origin feature/AmazingFeature```
-5. Open a Pull Request
+2. Create your Feature Branch
+```bash
+ git checkout -b feature/AmazingFeature
+```
+4. Commit your Changes
+```bash
+git commit -m 'Add some AmazingFeature
+```
+6. Push to the Branch
+```bash
+git push origin feature/AmazingFeature
+```
+8. Open a Pull Request
