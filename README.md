@@ -41,6 +41,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Usage
    ```bash
    python src/main.py
+```
 
 ### Documentation
 For a detailed guide on how to use this system and further documentation on the architecture and functionalities, please refer to the docs/ directory located within this project.
