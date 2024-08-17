@@ -9,6 +9,7 @@ This repository contains an implementation of an advanced Retrieval-Augmented Ge
 
 ## Features
 
+
 - **PDF Parsing**: Leverages the `unstructured` library to extract diverse elements such as text, tables, and images.
 - **Data Processing**: Processes extracted elements for optimal formatting and utility.
 - **Element Classification**: Classifies elements to aid in further processing and retrieval tasks.
